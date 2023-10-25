@@ -1,7 +1,7 @@
 # DL-recsys
 
-Recommender Systems
-W7 
+Recommender Systems  
+W7   
 - 7조 Kaggle 1: Simple example with surprise  
 https://www.kaggle.com/code/rounakbanik/movie-recommender-systems/notebook
 - 6조 Kaggle 2: Deep recommender with keras  
