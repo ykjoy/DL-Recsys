@@ -8,14 +8,18 @@ https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender
 - 5조 Recsys using Keras  
 https://keras.io/examples/structured_data/collaborative_filtering_movielens/  
 https://dl.acm.org/doi/abs/10.1145/3038912.3052569
-
-W9
-
-
-W11
-
-
-W13
+  
+W9  
+- 1조  
+- 7조   
+  
+W11  
+- 2조   
+- 3조  
+  
+W13  
+- 5조  
+- 4조   
 
 
 
