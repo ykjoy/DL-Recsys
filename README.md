@@ -1,6 +1,5 @@
 # DL-recsys
-
-Recommender Systems  
+# Recommender Systems  
 W7   
 - 7조 Kaggle 1: Simple example with surprise  
 https://www.kaggle.com/code/rounakbanik/movie-recommender-systems/notebook
