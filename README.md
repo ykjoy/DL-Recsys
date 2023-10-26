@@ -13,18 +13,18 @@ W7
   
 W9  
 - 7조 Kaggle 3: Intro to AutoEncoders           
-  https://www.kaggle.com/code/subinium/how-autoencoders-work-korean-ver
+  https://www.kaggle.com/code/subinium/how-autoencoders-work-korean-ver                                 
   https://blog.keras.io/building-autoencoders-in-keras.html
 
 - 1조 Autoencoders for Collaborative Filtering           
   https://www.youtube.com/watch?v=h6vePourB7E           
-  https://tech.kakao.com/2020/04/29/kakaoarena-3rd-part1/
-  https://dspace.ewha.ac.kr/handle/2015.oak/257960
+  https://tech.kakao.com/2020/04/29/kakaoarena-3rd-part1/                                 
+  https://dspace.ewha.ac.kr/handle/2015.oak/257960                      
 
 - recsys논문1: AutoRec: Autoencoders Meet Collaborative Filtering           
   https://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf
 - recsys논문2: Variational autoencoders for collaborative filtering           
-  https://dl.acm.org/doi/pdf/10.1145/3178876.3186150           
+  https://dl.acm.org/doi/pdf/10.1145/3178876.3186150                      
   https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation/blob/master/Report.md
   
 W11  
