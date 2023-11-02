@@ -31,9 +31,9 @@ W9
 W11  
 - 2조 A Transformer-based recommendation system     
   https://keras.io/examples/structured_data/movielens_recommendations_transformers/                                                          
-  관련논문1: Attention Is All You Need(2017)                         
+  관련논문1: Attention Is All You Need (2017)                         
   https://arxiv.org/abs/1706.03762                        
-  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba(2019)                                
+  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019)                                
   https://arxiv.org/abs/1905.06874                      
   
 - 3조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
