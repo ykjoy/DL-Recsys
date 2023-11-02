@@ -29,16 +29,18 @@ W9
   https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation/blob/master/Report.md
   
 W11  
-- 2조 A Transformer-based recommendation system     
+- 2조 A Transformer-based recommendation system         
   https://keras.io/examples/structured_data/movielens_recommendations_transformers/                                                          
   관련논문1: Attention Is All You Need (2017)                         
   https://arxiv.org/abs/1706.03762                        
   관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019)                                
   https://arxiv.org/abs/1905.06874                      
   
-- 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(Sun et al., 2019)      
-  paper: https://arxiv.org/pdf/1904.06690.pdf  
-  code: https://github.com/FeiSun/BERT4Rec         
+- 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(Sun et al., 2019)
+  (코드보다는) 전체적인 흐름을 이해하고 주요 내용 발표 하기      
+  https://www.youtube.com/watch?v=PKYVHGrSO2U
+  관련논문: https://arxiv.org/pdf/1904.06690.pdf  
+  논문코드: https://github.com/FeiSun/BERT4Rec         
   
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
