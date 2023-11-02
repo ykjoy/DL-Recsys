@@ -36,9 +36,9 @@ W11
   관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019)                                
   https://arxiv.org/abs/1905.06874                      
   
-- 3조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
-  paper: https://arxiv.org/pdf/1808.09781.pdf    
-  code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb         
+- 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(Sun et al., 2019)      
+  paper: https://arxiv.org/pdf/1904.06690.pdf  
+  code: https://github.com/FeiSun/BERT4Rec         
   
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
