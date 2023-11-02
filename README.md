@@ -30,11 +30,12 @@ W9
   
 W11  
 - 2조 A Transformer-based recommendation system     
-  https://keras.io/examples/structured_data/movielens_recommendations_transformers/                                              
+  https://keras.io/examples/structured_data/movielens_recommendations_transformers/                                                          
   관련논문1: Attention Is All You Need(2017)                         
   https://arxiv.org/abs/1706.03762                        
-  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba(2019)                                   
-  https://arxiv.org/abs/1905.06874                          
+  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba(2019)                                
+  https://arxiv.org/abs/1905.06874                      
+  
 - 3조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
   paper: https://arxiv.org/pdf/1808.09781.pdf    
   code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb         
@@ -42,10 +43,12 @@ W11
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
   paper: https://arxiv.org/pdf/1811.00855.pdf      
-  code: https://github.com/CRIPAC-DIG/SR-GNNg-ac-kr.zoom.us/j/87814307494?pwd=kIWwj96wgwbbjzi7D5NWcoDn0BtNTB.1     
+  code: https://github.com/CRIPAC-DIG/SR-GNNg-ac-kr.zoom.us/j/87814307494?pwd=kIWwj96wgwbbjzi7D5NWcoDn0BtNTB.1            
+
 - 4조 Graph neural networks for social recommendation (Fan et al., 2019)         
   paper: https://arxiv.org/pdf/1902.07243.pdf          
-  code: https://github.com/wenqifan03/GraphRec-WWW19
+  code: https://github.com/wenqifan03/GraphRec-WWW19                      
+  
 - A Survey of Graph Neural Networks for Recommender Systems                             
   https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems                   
 
