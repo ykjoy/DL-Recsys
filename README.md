@@ -29,7 +29,7 @@ W9
   https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation/blob/master/Report.md
   
 W11  
-- 2조 A Transformer-based recommendation system
+- 2조 A Transformer-based recommendation system                         
   코드 해석 및 관련 논문 주요 내용 요약 발표하기             
   https://keras.io/examples/structured_data/movielens_recommendations_transformers/                                                          
   관련논문1: Attention Is All You Need (2017)                         
