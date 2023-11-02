@@ -37,7 +37,7 @@ W11
   https://arxiv.org/abs/1905.06874                      
   
 - 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(Sun et al., 2019)                
-  전체적인 흐름을 이해하고 주요 내용 발표 하기 (코드기)       
+  전체적인 흐름을 이해하고 주요 내용 발표 하기 (코드는 가능한 만큼만 해석하기)       
   https://www.youtube.com/watch?v=PKYVHGrSO2U                       
   관련논문: https://arxiv.org/pdf/1904.06690.pdf  
   논문코드: https://github.com/FeiSun/BERT4Rec         
