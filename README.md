@@ -30,7 +30,7 @@ W9
 W11  
 - 2조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
   paper: https://arxiv.org/pdf/1808.09781.pdf    
-  code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb      
+  code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb         
 - 3조 Session-based Recommendations with RNN (Hidasi et al., 2015)     
   paper: https://arxiv.org/pdf/1511.06939.pdf     
   code:https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondat
@@ -42,4 +42,7 @@ W13
   code: https://github.com/CRIPAC-DIG/SR-GNNg-ac-kr.zoom.us/j/87814307494?pwd=kIWwj96wgwbbjzi7D5NWcoDn0BtNTB.1     
 - 4조 Graph neural networks for social recommendation (Fan et al., 2019)         
   paper: https://arxiv.org/pdf/1902.07243.pdf          
-  code: https://github.com/wenqifan03/GraphRec-WWW19        
+  code: https://github.com/wenqifan03/GraphRec-WWW19
+- A Survey of Graph Neural Networks for Recommender Systems                             
+  https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems                   
+
