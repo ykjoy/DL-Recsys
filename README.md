@@ -33,8 +33,7 @@ W11
   code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb         
 - 3조 Session-based Recommendations with RNN (Hidasi et al., 2015)     
   paper: https://arxiv.org/pdf/1511.06939.pdf     
-  code:https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondat
-aset.ipynb     
+  code:https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb     
   
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
