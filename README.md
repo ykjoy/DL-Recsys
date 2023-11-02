@@ -28,12 +28,15 @@ W9
   https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation/blob/master/Report.md
   
 W11  
-- 2조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
+- 2조 A Transformer-based recommendation system     
+  https://keras.io/examples/structured_data/movielens_recommendations_transformers/                             
+  관련논문1: Attention Is All You Need(2017)
+  https://arxiv.org/abs/1706.03762
+  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019)                  
+  https://arxiv.org/abs/1905.06874                     
+- 3조 Self-Attentive Sequential Recommendation (Kang & McAuley, 2018)      
   paper: https://arxiv.org/pdf/1808.09781.pdf    
   code: https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb         
-- 3조 Session-based Recommendations with RNN (Hidasi et al., 2015)     
-  paper: https://arxiv.org/pdf/1511.06939.pdf     
-  code:https://github.com/microsoft/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb     
   
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
