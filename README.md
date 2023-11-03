@@ -39,7 +39,7 @@ W11
   
 - 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(Sun et al., 2019)                
   전체적인 흐름을 이해하고 주요 내용 발표 하기 (가능하다면 허깅페이스로 연습코드 만들어보기)       
-  https://www.youtube.com/watch?v=PKYVHGrSO2U
+  https://www.youtube.com/watch?v=PKYVHGrSO2U                             
   https://mytype9591.tistory.com/6                      
   관련논문: https://arxiv.org/pdf/1904.06690.pdf  
   논문코드: https://github.com/FeiSun/BERT4Rec         
