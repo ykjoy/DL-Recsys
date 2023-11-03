@@ -46,12 +46,12 @@ W11
   
 W13  
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
-  paper: https://arxiv.org/pdf/1811.00855.pdf      
-  code: https://github.com/CRIPAC-DIG/SR-GNNg-ac-kr.zoom.us/j/87814307494?pwd=kIWwj96wgwbbjzi7D5NWcoDn0BtNTB.1            
+  관련논문: https://arxiv.org/pdf/1811.00855.pdf      
+  논문코드: https://github.com/CRIPAC-DIG/SR-GNN          
 
 - 4조 Graph neural networks for social recommendation (Fan et al., 2019)         
-  paper: https://arxiv.org/pdf/1902.07243.pdf          
-  code: https://github.com/wenqifan03/GraphRec-WWW19                      
+  관련논문: https://arxiv.org/pdf/1902.07243.pdf          
+  논문코드: https://github.com/wenqifan03/GraphRec-WWW19                      
   
 - A Survey of Graph Neural Networks for Recommender Systems                             
   https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems                   
