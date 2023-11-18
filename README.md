@@ -34,21 +34,21 @@ W11  코드 해석 및 관련 논문 주요 내용 요약 발표하기
 
   관련논문1: Attention Is All You Need (2017)                         
   https://arxiv.org/abs/1706.03762                        
-  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba(2019)                                
+  관련논문2: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019)                                
   https://arxiv.org/abs/1905.06874                      
   
-- 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer(2019)                
+- 3조 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)                
   https://github.com/SeongBeomLEE/RecsysTutorial                                
                                 
   관련논문: https://arxiv.org/pdf/1904.06690.pdf  
   논문코드: https://github.com/FeiSun/BERT4Rec                           
   
 W13  코드 해석 및 관련 논문 주요 내용 요약 발표하기 
-- 5조 Session-Based Recommendation with Graph Neural Networks(2019)        
+- 5조 Session-Based Recommendation with Graph Neural Networks (2019)        
   관련논문: https://arxiv.org/pdf/1811.00855.pdf      
   논문코드: https://github.com/CRIPAC-DIG/SR-GNN          
 
-- 4조 Graph neural networks for social recommendation(2019)         
+- 4조 Graph neural networks for social recommendation (2019)         
   관련논문: https://arxiv.org/pdf/1902.07243.pdf          
   논문코드: https://github.com/wenqifan03/GraphRec-WWW19                      
   
