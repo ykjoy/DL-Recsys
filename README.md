@@ -43,7 +43,7 @@ W11  코드 해석 및 관련 논문 주요 내용 요약 발표하기
   관련논문: https://arxiv.org/pdf/1904.06690.pdf  
   논문코드: https://github.com/FeiSun/BERT4Rec                           
   
-W13  
+W13  코드 해석 및 관련 논문 주요 내용 요약 발표하기 
 - 5조 Session-Based Recommendation with Graph Neural Networks (Wu et al., 2019)        
   관련논문: https://arxiv.org/pdf/1811.00855.pdf      
   논문코드: https://github.com/CRIPAC-DIG/SR-GNN          
